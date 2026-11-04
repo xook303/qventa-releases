@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/qventa-icon.png" width="88" height="88" alt="Qvent Live" />
+<img src="assets/qventa-icon.png" width="88" height="88" alt="Qventa Live" />
 
-# Qvent Live
+# Qventa Live
 
 ### Ваше мероприятие. Ваш пульт.
 ### Your event. Your control.
@@ -30,7 +30,7 @@ Music · Video · Scenes · Audience display
 
 **Один оператор. Одно рабочее место.**
 
-Qvent Live объединяет музыку, видео, сцены и быстрые медиа-запуски в приложении для Windows. Подготовьте материалы заранее и управляйте ими во время мероприятия.
+Qventa Live объединяет музыку, видео, сцены и быстрые медиа-запуски в приложении для Windows. Подготовьте материалы заранее и управляйте ими во время мероприятия.
 
 **На вашем экране — управление. На экране гостей — выбранный контент.**
 
@@ -57,7 +57,7 @@ Qvent Live объединяет музыку, видео, сцены и быст
 | :--- | :--- |
 | **Полный установщик** — для переноса на другой компьютер | [Выбрать файл в последнем выпуске](https://github.com/xook303/qventa-releases/releases/latest) → `Qventa_<версия>_x64-setup.exe` |
 
-Запустите установщик, завершите установку и откройте **Qvent Live** через ярлык. Установщик использует системную среду Microsoft Edge WebView2 и при её отсутствии загружает её отдельно.
+Запустите установщик, завершите установку и откройте **Qventa Live** через ярлык. Установщик использует системную среду Microsoft Edge WebView2 и при её отсутствии загружает её отдельно.
 
 ### Обновление
 
@@ -65,21 +65,21 @@ Qvent Live объединяет музыку, видео, сцены и быст
 
 Перед обновлением сохраните проект, остановите медиа и закройте экран гостей. Установку лучше выполнять вне рабочего мероприятия.
 
-### Что нового в 0.6.9
+### Что нового в 0.7.0
 
-- Новое название программы — **Qvent Live**.
+- Новое название программы — **Qventa Live**.
 - Центральные модули и большой режим получили общую шапку и единое управление закрытием.
 - Обновлены запуск, завершение работы, сохранение проектов и система обновлений.
 - Стандартный запуск открывает файловый менеджер и медиаплеер; музыкальное лото включено в установщик.
 
-[Изменения 0.6.9](https://github.com/xook303/qventa-releases/releases/tag/v0.6.9)
+[Изменения 0.7.0](https://github.com/xook303/qventa-releases/releases/tag/v0.7.0)
 
 <details>
 <summary><b>Проверка файлов и состав поставки</b></summary>
 
 Система обновления проверяет подпись метаданных **Ed25519** и контрольную сумму **SHA-256** пакета. Подписи Windows Authenticode пока нет, поэтому Windows может показать «Неизвестный издатель».
 
-В публичный комплект входят шесть модулей: медиатека, медиаплеер, сцены, медиапэды, таймер и музыкальное лото.
+В комплект входят семь модулей: презентации, файловый менеджер, медиаплеер, сцены, медиапэды, таймер и музыкальное лото.
 
 
 </details>
@@ -89,7 +89,7 @@ Qvent Live объединяет музыку, видео, сцены и быст
 
 При разрешённой статистике программа передаёт случайный идентификатор установки и номер версии. Сбор статистики можно отключить в настройках. Полная политика доступна в программе.
 
-Нашли ошибку? [Создайте обращение](https://github.com/xook303/qventa-releases/issues), укажите версию Qvent Live, шаги воспроизведения и ожидаемый результат. Не прикладывайте пароли или личные файлы.
+Нашли ошибку? [Создайте обращение](https://github.com/xook303/qventa-releases/issues), укажите версию Qventa Live, шаги воспроизведения и ожидаемый результат. Не прикладывайте пароли или личные файлы.
 
 </details>
 
@@ -103,7 +103,7 @@ Qvent Live объединяет музыку, видео, сцены и быст
 
 **One operator. One workspace.**
 
-Qvent Live brings music, video, scenes and quick media triggers into one Windows application. Prepare your materials ahead of time and control them during your event.
+Qventa Live brings music, video, scenes and quick media triggers into one Windows application. Prepare your materials ahead of time and control them during your event.
 
 **Controls stay on your screen. Selected content goes to your audience.**
 
@@ -130,7 +130,7 @@ Qvent Live brings music, video, scenes and quick media triggers into one Windows
 | :--- | :--- |
 | **Full installer** — for transferring to another computer | [Choose a file from the latest release](https://github.com/xook303/qventa-releases/releases/latest) → `Qventa_<version>_x64-setup.exe` |
 
-Run the installer, complete setup and open **Qvent Live** using its shortcut. The installer uses the system Microsoft Edge WebView2 runtime and downloads it separately if missing.
+Run the installer, complete setup and open **Qventa Live** using its shortcut. The installer uses the system Microsoft Edge WebView2 runtime and downloads it separately if missing.
 
 ### Updates
 
@@ -140,7 +140,7 @@ Save your project, stop media playback and close the audience display before upd
 
 ### New in 0.6.9
 
-- The app is now named **Qvent Live**.
+- The app is now named **Qventa Live**.
 - Center modules and large mode share a consistent header and close control.
 - Startup, shutdown, project persistence and updates have been improved.
 - Standard startup opens File Manager and Media Player; Music Lotto is included in the installer.
@@ -162,7 +162,7 @@ The public package includes six modules: Media Library, Media Player, Scenes, Me
 
 When usage statistics are enabled, the application sends a random installation identifier and its version number. You can disable statistics in Settings. The full privacy policy is available inside the application.
 
-Found a problem? [Open an issue](https://github.com/xook303/qventa-releases/issues) with your Qvent Live version, reproduction steps and expected result. Do not attach passwords or private files.
+Found a problem? [Open an issue](https://github.com/xook303/qventa-releases/issues) with your Qventa Live version, reproduction steps and expected result. Do not attach passwords or private files.
 
 </details>
 
@@ -172,8 +172,8 @@ Found a problem? [Open an issue](https://github.com/xook303/qventa-releases/issu
 
 <div align="center">
 
-**Qvent Live · Музыка. Видео. Ваше мероприятие.**  
-**Qvent Live · Music. Video. Your event.**
+**Qventa Live · Музыка. Видео. Ваше мероприятие.**  
+**Qventa Live · Music. Video. Your event.**
 
 [Download](https://github.com/xook303/qventa-releases/releases/latest) · [Releases](https://github.com/xook303/qventa-releases/releases) · [Issues](https://github.com/xook303/qventa-releases/issues)
 
@@ -182,6 +182,6 @@ Found a problem? [Open an issue](https://github.com/xook303/qventa-releases/issu
 
 ## 0.6.6
 
-После проверенной загрузки обновления Qvent Live сохраняет проект, завершает работу и запускает установщик. Отмена сохранения и активный сеанс блокируют установку.
+После проверенной загрузки обновления Qventa Live сохраняет проект, завершает работу и запускает установщик. Отмена сохранения и активный сеанс блокируют установку.
 
 Verified update downloads now save the project, exit normally and launch the installer. Save cancellation and active sessions prevent installation.
